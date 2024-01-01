@@ -16,6 +16,8 @@
                     Text="服务器版本快速启动" />
 		<local:MyButton Margin="0,4,0,10" Width="250" Height="35"
                     Text="启动 1.20.1更好的游戏" EventType="启动游戏" EventData="1.20.1更好的游戏" />
+		<local:MyButton Margin="0,4,0,10" Width="250" Height="35"
+                    Text="启动游戏并连接至hanying的服务器" EventType="启动游戏" EventData="1.20.1更好的游戏|tcp://server.natappfree.cc:36546" />
 	</StackPanel>
 </local:MyCard>
 
