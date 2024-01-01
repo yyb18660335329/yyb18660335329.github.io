@@ -3,10 +3,10 @@
 
 <local:MyCard Title="公告栏" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
 	<StackPanel Margin="25,40,23,15">
-                     	<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" FontSize="15"
-                    	Text="这里还没做好，所以啥也没有OvO" />
+            <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" FontSize="15"
+                    	Text="战争服，除了炸服之外什么都可以干" />
 			<TextBlock TextWrapping="Wrap" Margin="0,0,0,4" FontSize="15"
-                    	Text="没有公告" />
+                    	Text="暂无" />
 	</StackPanel>
 </local:MyCard>
 
@@ -19,3 +19,9 @@
 	</StackPanel>
 </local:MyCard>
 
+<local:MyCard Title="特别鸣谢" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+	<StackPanel Margin="25,40,23,15">
+            <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" FontSize="15"
+                    Text="enderman8854" />
+	</StackPanel>
+</local:MyCard>
